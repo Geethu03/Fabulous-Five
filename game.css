@@ -1,1 +1,58 @@
-abcdefg
+/*------------------heading for the title-------*/
+body {
+    background-color: black;
+}
+/*------------------header formatting--------------------------------------------------*/
+#myh1 {
+    font-size: 120px;
+    font-family: chiller;
+    color: crimson;
+    text-align: center;
+    padding-top: 100px;
+   }
+
+/*------------------header formatting--------------------------------------------------*/
+.menu
+{ 
+     text-align: center;
+}
+
+.profile 
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;
+}
+
+.score 
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;
+}
+
+.aim
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;
+}
+
+.tac
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;
+}
+
+.inst
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;  
+}
