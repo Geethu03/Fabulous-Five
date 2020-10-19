@@ -1,8 +1,9 @@
-/*------------------heading for the title-------*/
+/*------------------Webpage background----------------------*/
 body {
     background-color: black;
 }
-/*------------------header formatting--------------------------------------------------*/
+
+/*------------------Webpage Title---------------------------*/
 #myh1 {
     font-size: 120px;
     font-family: chiller;
@@ -11,12 +12,13 @@ body {
     padding-top: 100px;
    }
 
-/*------------------header formatting--------------------------------------------------*/
+/*------------------Webpage Content-----------------------*/
 .menu
 { 
      text-align: center;
 }
 
+/*------------------Group members - Profile---------------*/
 .profile 
 {
     font-size: 70px;
@@ -25,13 +27,8 @@ body {
     border-style:dashed;
 }
 
-.score 
-{
-    font-size: 70px;
-    font-family: gigi;
-    color: yellow;
-    border-style:dashed;
-}
+
+
 
 .aim
 {
@@ -55,4 +52,11 @@ body {
     font-family: gigi;
     color: yellow;
     border-style:dashed;  
+}
+.score 
+{
+    font-size: 70px;
+    font-family: gigi;
+    color: yellow;
+    border-style:dashed;
 }
